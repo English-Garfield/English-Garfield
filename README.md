@@ -1,15 +1,19 @@
 # Hi, I'm Isaac
 Electrical engineering student, live sound engineer.
 
----
+
 
 ## About Me
 
+Head of Live @ NSTV 2025/26
+
+Logistics Manager @ TEC PA & Lighting 2026/2027
+
 - Studying Electrical Engineering
-- Live Sound Engineer — I mix, I troubleshoot, I make it loud
+- Live Sound Engineer — I make it (tatefully) loud
 - Interested in ML, embedded systems and robotics
 
----
+
 
 ## Skills & Tools
 
@@ -23,14 +27,9 @@ Electrical engineering student, live sound engineer.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Other**
+**Tools & Environment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat&logo=arduino&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## Projects
-
-### ♟️ Chess ML Model
-A machine learning model trained to play chess using TensorFlow. Built from the ground up — from data pipeline to model architecture to evaluation.
