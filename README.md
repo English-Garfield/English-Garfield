@@ -1,9 +1,3 @@
-![Isaac Github Banner](assets/banner.svg)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linked.in/isaac-korda) 	[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@isaacjfkorda)
-
-
-<br>
-
 <a href="https://github.com/">
   <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=English-Garfield&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34"  alt="used languages" align="center"/>
 </a>
